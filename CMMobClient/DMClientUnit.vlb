@@ -1,0 +1,10 @@
+﻿[SQLConnection]
+Coordinates=99,1,92,33
+
+[DSProviderConnection]
+Coordinates=210,1,127,33
+
+[cdsEmployee]
+Coordinates=10,10,87,213
+ExplicitSubNodes=FN_SN
+

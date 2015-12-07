@@ -1,0 +1,15 @@
+﻿[ServerMethods.]
+Coordinates=10,10,179,51
+
+[ServerMethods.EmployeeinfTable]
+Coordinates=266,1,179,51
+
+[DSServer]
+Coordinates=93,52,66,33
+
+[DSServerClass]
+Coordinates=0,0,93,33
+
+[DSTCPServerTransport]
+Coordinates=112,1,135,33
+
